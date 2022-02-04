@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: etLambda
+# key: etLambda
+# --
+{\etens{\Lambda}}$0

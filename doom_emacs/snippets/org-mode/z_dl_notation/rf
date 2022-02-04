@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rf
+# key: rf
+# --
+{\textnormal{f}}$0

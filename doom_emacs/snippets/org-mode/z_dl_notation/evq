@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: evq
+# key: evq
+# --
+{q}$0

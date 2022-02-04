@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: newterm
+# key: newterm
+# --
+1]{{\bf }$0

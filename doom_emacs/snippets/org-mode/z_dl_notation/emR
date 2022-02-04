@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: emR
+# key: emR
+# --
+{R}$0

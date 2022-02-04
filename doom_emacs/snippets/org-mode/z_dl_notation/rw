@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rw
+# key: rw
+# --
+{\textnormal{w}}$0

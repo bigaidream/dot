@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: emV
+# key: emV
+# --
+{V}$0

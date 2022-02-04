@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Partref
+# key: Partref
+# --
+Part~\ref{${1:variable 1}}$0

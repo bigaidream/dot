@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: figcenter
+# key: figcenter
+# --
+{\em (Center)}$0

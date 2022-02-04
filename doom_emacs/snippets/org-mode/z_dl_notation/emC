@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: emC
+# key: emC
+# --
+{C}$0

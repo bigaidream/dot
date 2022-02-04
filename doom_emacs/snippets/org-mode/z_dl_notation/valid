@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: valid
+# key: valid
+# --
+\mathcal{D_{\mathrm{valid}}}$0

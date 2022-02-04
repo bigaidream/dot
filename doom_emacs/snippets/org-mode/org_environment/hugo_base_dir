@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: hugo_base_dir
+# key: hugo
+# --
+#+tags: public
+#+hugo_base_dir: .

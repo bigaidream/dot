@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: vi
+# key: vi
+# --
+{\bm{i}}$0

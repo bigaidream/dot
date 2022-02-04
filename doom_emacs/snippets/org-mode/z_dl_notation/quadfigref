@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: quadfigref
+# key: quadfigref
+# --
+figures \ref{${1:variable 1}}, \ref{${2:variable 2}}, \ref{${3:variable 3}} and \ref{${4:variable 4}}$0

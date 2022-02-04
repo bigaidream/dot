@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Cov
+# key: Cov
+# --
+\mathrm{Cov}$0

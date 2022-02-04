@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: #+begin_latex
+# key: latex
+# uuid: latex
+# --
+#+BEGIN_LATEX
+$0
+#+END_LATEX

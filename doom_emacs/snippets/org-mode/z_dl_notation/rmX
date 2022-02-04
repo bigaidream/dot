@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rmX
+# key: rmX
+# --
+{\mathbf{X}}$0

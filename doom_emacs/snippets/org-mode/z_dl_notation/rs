@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rs
+# key: rs
+# --
+{\textnormal{s}}$0

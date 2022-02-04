@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rx
+# key: rx
+# --
+{\textnormal{x}}$0

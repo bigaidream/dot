@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Ptrain
+# key: Ptrain
+# --
+\hat{P}_{\rm{data}}

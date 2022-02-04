@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Chapref
+# key: Chapref
+# --
+Chapter~\ref{${1:variable 1}}$0

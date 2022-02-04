@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: #+LATEX_HEADER for math annotation
+# key: math_annotate
+# --
+#+SETUPFILE: /home/jie/Dropbox/docs/org-roam/math_annotate.org

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rangechapref
+# key: rangechapref
+# --
+chapters\ref{${1:variable 1}}--\ref{${2:variable 2}}$0

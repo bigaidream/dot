@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: evlambda
+# key: evlambda
+# --
+{\lambda}$0

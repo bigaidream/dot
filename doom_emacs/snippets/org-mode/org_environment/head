@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: org-file header
+# key: head
+# uuid: head
+# --
+- tags :: 
+- keywords :: 
+- rank :: 
+- create time :: $1
+- update time :: $2

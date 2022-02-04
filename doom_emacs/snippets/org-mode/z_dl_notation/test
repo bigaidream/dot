@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: test
+# key: test
+# --
+\mathcal{D_{\mathrm{test}}}$0

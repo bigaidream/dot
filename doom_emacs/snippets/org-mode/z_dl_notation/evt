@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: evt
+# key: evt
+# --
+{t}$0

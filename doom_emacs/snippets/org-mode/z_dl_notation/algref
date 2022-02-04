@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: algref
+# key: algref
+# --
+algorithm~\ref{${1:variable 1}}$0

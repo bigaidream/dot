@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: begin_source
+# key: begin_src
+# uuid: begin_source
+# --
+#+caption: $1 label:$2
+#+BEGIN_SRC $3
+$0
+#+END_SRC

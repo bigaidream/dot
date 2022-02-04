@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rn
+# key: rn
+# --
+{\textnormal{n}}$0

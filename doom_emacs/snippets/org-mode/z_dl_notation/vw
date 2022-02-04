@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: vw
+# key: vw
+# --
+{\bm{w}}$0

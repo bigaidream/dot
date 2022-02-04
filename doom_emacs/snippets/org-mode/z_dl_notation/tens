@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: tens
+# key: tens
+# --
+1]{\bm{\mathsfit{$1}}$0

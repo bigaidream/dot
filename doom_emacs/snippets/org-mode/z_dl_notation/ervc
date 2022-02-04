@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: ervc
+# key: ervc
+# --
+{\textnormal{c}}$0

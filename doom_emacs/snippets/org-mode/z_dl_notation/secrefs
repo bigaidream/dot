@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: secrefs
+# key: secrefs
+# --
+sections \ref{${1:variable 1}}, \ref{${2:variable 2}} and \ref{${3:variable 3}}$0

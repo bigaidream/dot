@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: plaineqref
+# key: plaineqref
+# --
+\ref{${1:variable 1}}$0

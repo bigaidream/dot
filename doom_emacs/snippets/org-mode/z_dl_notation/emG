@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: emG
+# key: emG
+# --
+{G}$0

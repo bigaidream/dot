@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: reta
+# key: reta
+# --
+{\textnormal{$\eta$}}$0

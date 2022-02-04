@@ -1,0 +1,16 @@
+# -*- mode: snippet -*-
+# name: Begin Proof Enumerate Structure
+# key: beginproof
+# --
+\begin{enumerate}
+\item \label{item:test-lamport2:1b}{Text of step 1.}
+\begin{enumerate}
+    \item \label{item:solution-enumitem:1} Text of substep 1
+    \begin{enumerate}
+        \item[\textsc{PROOF}] Paragraph proof using results in
+        \ref{item:solution-enumitem:1}. $\blacksquare$
+    \end{enumerate}
+    \item \label{label-2.1}{Text of substep 2}
+    \end{enumerate}
+    \item \label{label-2.2}{Text of step 2} 
+\end{enumerate}

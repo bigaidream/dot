@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Twoalgref
+# key: Twoalgref
+# --
+Algorithms \ref{${1:variable 1}} and \ref{${2:variable 2}}$0

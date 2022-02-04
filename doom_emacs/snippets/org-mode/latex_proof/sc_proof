@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Textsc PROOF
+# key: proof
+# --
+\textsc{PROOF}
